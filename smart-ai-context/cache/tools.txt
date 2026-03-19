@@ -1,0 +1,2 @@
+Cursor|/Users/terre/Library/Application Support/Cursor/User/workspaceStorage
+Claude Code|/Users/terre/.claude/history.jsonl
